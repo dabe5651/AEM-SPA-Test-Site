@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/myspasite/clientlibs"/>
+    <filter root="/apps/myspasite/components"/>
+    <filter root="/apps/myspasite/i18n"/>
+</workspaceFilter>

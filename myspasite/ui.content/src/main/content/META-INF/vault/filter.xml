@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/myspasite" mode="merge"/>
+    <filter root="/content/myspasite" mode="merge"/>
+    <filter root="/content/dam/myspasite" mode="merge"/>
+    <filter root="/content/experience-fragments/myspasite" mode="merge"/>
+</workspaceFilter>
