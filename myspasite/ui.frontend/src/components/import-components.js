@@ -20,4 +20,5 @@ import './Image/Image';
 import './Navigation/Navigation';
 import './Header/Header';
 import './Container/Container';
+import './Stat/Stat';
 import './ExperienceFragment/ExperienceFragment';
